@@ -1,0 +1,18 @@
+.App {
+  margin-top: 20px;
+  width: 1050px;
+  margin: 20px auto;
+}
+
+textarea {
+  margin-right: 40px;
+}
+
+textarea,
+.output {
+  min-width: 500px;
+  max-width: 500px;
+  min-height: 700px;
+  display: inline-block;
+  float: left;
+}
